@@ -15,5 +15,8 @@ public class Dome {
         System.out.println( s1.compareTo(s3) ); // -3 (前面相等,s1长度小3)
         System.out.println( s1.compareTo(s4) ); // 48 ("a"的ASCII码是97,"1"的的ASCII码是49,所以返回48)
         System.out.println( s1.compareTo(s5) ); // -2 ("a"的ASCII码是97,"c"的ASCII码是99,所以返回-2)
+
+
+        System.out.println("徐宇昊是傻逼");
     }
 }
